@@ -64,12 +64,6 @@ Problems are solved from:
 
 ---
 
-## 🤝 Contributions
-
-This is a personal learning repository. Improvements and optimizations are welcome.
-
----
-
 ## 👨‍💻 Author
 
 **Mohit Patil**  
